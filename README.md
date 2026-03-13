@@ -210,7 +210,7 @@ Python
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-asset-crypto-forecasting-timeseries.git
+git clone https://github.com/RishiRaajhaA/multi-asset-crypto-forecasting-timeseries.git
 cd multi-asset-crypto-forecasting-timeseries
 ```
 
