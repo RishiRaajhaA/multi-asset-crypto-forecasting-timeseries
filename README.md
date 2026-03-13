@@ -237,10 +237,9 @@ BTC_USDT_TSA_Project.ipynb
 # Project Structure
 
 ```
-crypto-forecasting/
+multi-asset-crypto-forecasting-timeseries/
 │
 ├── BTC_USDT_TSA_Project.ipynb
-├── report.pdf
 ├── README.md
 ```
 
